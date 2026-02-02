@@ -1,0 +1,17 @@
+# Packaged skill files
+*.skill
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Archives
+*.tar.gz
+*.zip
