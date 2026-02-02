@@ -2,6 +2,8 @@
 
 A Claude Code skill that forces a mandatory security review gate on every plan and code output. No code ships without being threat modeled, attack-emulated, mitigated, and pen tested.
 
+This is just inspired from a LinkedIn post and executed by Claude: https://www.linkedin.com/feed/update/urn:li:activity:7423883153276039168/
+
 ## What It Does
 
 This skill turns Claude Code into a security-conscious reviewer with CompTIA Security+ level knowledge. Every time Claude produces a plan, writes code, designs architecture, or modifies infrastructure, it must pass through a 7-step security workflow before delivery:
